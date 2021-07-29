@@ -1,9 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="premium" value="true" />
     <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="78392c29:17af17af49f:-8000" />
-    <option name="version" value="6.7.2" />
+    <option name="version" value="5.5.0" />
   </component>
 </application>
