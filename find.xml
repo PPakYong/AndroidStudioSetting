@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Exclude build folder" />
-    <option name="defaultScopeName" value="Exclude build folder" />
-    <option name="SEARCH_SCOPE" value="Exclude build folder" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.gradle</mask>
   </component>
 </application>
